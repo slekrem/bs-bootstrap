@@ -1,0 +1,29 @@
+{
+  "name": "bs-bootstrap",
+  "version": "0.0.1",
+  "authors": [
+    "Stefan Merkel <merkel.s.ulm@gmail.com>"
+  ],
+  "description": "-",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "bootstrap"
+  ],
+  "main": "bs-bootstrap.html",
+  "license": "-",
+  "homepage": "https://github.com/stefanmerkel/bs-bootstrap/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
